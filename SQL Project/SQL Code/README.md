@@ -1,1 +1,1 @@
-#Here is every code (non query) from sql to date
+# Here is every code (non query) from sql to date
